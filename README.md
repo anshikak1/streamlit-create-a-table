@@ -1,7 +1,5 @@
-# Welcome to streamlit
+## Welcome to streamlit-create-a-table-app
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
-
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+This is the app which will create a table for you and publish on Streamlit server
 
 Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
